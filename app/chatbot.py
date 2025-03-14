@@ -1,10 +1,9 @@
-# app/chatbot.py
-import json
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_ollama import OllamaLLM
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
+import json
 import gradio as gr
 
 # 1. Load first-person data
