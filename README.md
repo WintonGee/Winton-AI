@@ -1,5 +1,7 @@
 # Winton Gee - AI-Powered Portfolio Chatbot
 
+STATUS: Fixing a bug on building the container, then I can upload onto google cloud run.
+
 [![Deploy to Google Cloud Run](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 
 An intelligent chatbot that answers questions about my professional experience using AI.
