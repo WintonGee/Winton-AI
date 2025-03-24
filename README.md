@@ -33,7 +33,7 @@ Deployed on Google Cloud Run with Docker for scalable, serverless hosting.
 2. **AI Architecture**
 
    - Retrieval-Augmented Generation (RAG) pattern
-   - Mistral-7B LLM via Ollama
+   - Mistral-7B LLM via Ollama (Currently configuring DeepSeek R1)
    - Custom prompt engineering for interview responses
 
 3. **Deployment**
