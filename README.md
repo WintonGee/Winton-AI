@@ -1,6 +1,6 @@
 # Winton Gee - AI-Powered Portfolio Chatbot
 
-STATUS: Fixing a bug on building the container, then I can upload onto google cloud run.
+chatbot.wintongee.com
 
 [![Deploy to Google Cloud Run](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 
