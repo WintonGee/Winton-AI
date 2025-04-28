@@ -1,6 +1,6 @@
 # Winton Gee - AI-Powered Portfolio Chatbot
 
-[chatbot.wintongee.com](chatbot.wintongee.com)
+[![chatbot.wintongee.com](chatbot.wintongee.com)]
 
 [![Deploy to Google Cloud Run](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 
